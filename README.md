@@ -64,7 +64,7 @@ to help you implement this method.
 **Hint:** The first element of an array is always at an index of `0`, but the
 list above starts with `1` for human readability.
 
-[each_with_index]: https://ruby-doc.org/core-2.7.0/Enumerable.html#method-i-each_with_index
+[each_with_index]: oc.org/core-2.7.0/Enumerable.html#method-i-each_with_indexhttps://ruby-d
 
 Use `learn` to check your progress and `learn submit` to submit your work when
 finished.
